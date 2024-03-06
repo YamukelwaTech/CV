@@ -62,7 +62,7 @@ table {
 
 th,
 td {
-  border: 1px solid #ddd;
+  border: 2px solid #ddd;
   padding: 8px;
   text-align: left;
 }
@@ -75,12 +75,12 @@ footer {
   text-align: center;
   margin-top: 20px;
   padding: 10px;
-  background-color: #333;
+  background-color: #113946;
   color: #fff;
 }
 
 a {
-  color: #007bff;
+  color: #fff;
   text-decoration: none;
 }
 
