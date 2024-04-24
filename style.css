@@ -1,75 +1,71 @@
-/* Reset some default margin and padding */
-body,
-h1,
-h2,
-h3,
-p,
-ul,
-li,
-table {
-  margin: 0;
-  padding: 0;
-}
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-}
-header {
-  background-color: #113946;
-  color: #fff;
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
-  text-align: center;
-}
-.container1 {
-  text-align: center;
-}
-.container1 img {
-  border-radius: 10%;
-  max-width: 10%;
-  height: auto;
-  display: block;
-  margin: 20px auto;
-}
-.container1 h1 {
-  margin-top: 7px;
-}
-.container1 p {
-  padding: 10px 0;
+* {
   margin: 0;
+  box-sizing: border-box;
+  line-height: 160%;
+  font-family: "Kanit", sans-serif;
 }
-.middle,
-.middle2,
-.middle3 {
-  margin-top: 20px;
+
+body {
+  background: radial-gradient(ellipse, #4f6f52, transparent, #1a4d2e) #4f6f52;
 }
-.container2 {
+
+.header {
   text-align: center;
+  color: white;
+  margin-top: 30px;
 }
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 10px;
+
+.header h1 {
+  font-style: italic;
 }
-th,
-td {
-  border: 2px solid #ddd;
-  padding: 8px;
-  text-align: left;
+
+.header img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 10px solid white;
+  transition: transform 0.5s;
 }
-th {
-  background-color: #f2f2f2;
+
+.header img:hover {
+  transform: scale(1.2, 1.2);
 }
-footer {
+
+h2 {
+  color: #d6d1cd;
+  font-size: 25px;
+  font: bolder;
+}
+
+ul li {
+  list-style: square;
+}
+
+main {
+  max-width: 580px;
+  width: 80%;
+  margin: 30px auto;
+}
+
+section div {
+  background-color: #bca37f;
+  padding: 30px;
+  padding-top: 25px;
+  border-radius: 15px;
+}
+
+.contact img {
+  width: 30px;
+  height: 30px;
+}
+
+.footer {
+  padding-bottom: 30px;
   text-align: center;
-  margin-top: 20px;
-  padding: 10px;
-  background-color: #113946;
-  color: #fff;
-}
-a {
-  color: #fff;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
+  color: #d6d1cd;
+  font-style: oblique;
+  font-weight: 700;
+  font-size: 12px;
 }
