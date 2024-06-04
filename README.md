@@ -15,19 +15,19 @@
 ---
 
 ###### Features:
-- Responsive design that adapts to different screen sizes.
-- Semantic HTML5 elements for better structure and readability.
-- External CSS file for styling.
-- Detailed sections about profile, skills, professional experience, education, hobbies, and contact information.
+##### - Responsive design that adapts to different screen sizes.
+##### - Semantic HTML5 elements for better structure and readability.
+##### - External CSS file for styling.
+##### - Detailed sections about profile, skills, professional experience, education, hobbies, and contact information.
 
 ###### Process:
-- Started with a basic HTML5 template.
-- Added semantic elements like `header`, `main`, `section`, and `footer`.
-- Filled out each section with relevant information and structured them properly.
-- Styled the webpage using an external CSS file.
+##### - Started with a basic HTML5 template.
+##### - Added semantic elements like `header`, `main`, `section`, and `footer`.
+##### - Filled out each section with relevant information and structured them properly.
+##### - Styled the webpage using an external CSS file.
 
 ###### Learnings:
-- Gained a deeper understanding of HTML5 and CSS.
-- Learned how to structure a webpage semantically.
-- Improved skills in responsive web design.
-- Gained experience in presenting personal information in a professional manner.
+##### - Gained a deeper understanding of HTML5 and CSS.
+##### - Learned how to structure a webpage semantically.
+##### - Improved skills in responsive web design.
+##### - Gained experience in presenting personal information in a professional manner.
