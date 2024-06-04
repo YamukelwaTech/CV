@@ -7,7 +7,7 @@
 ###### Tech Stack: HTML5 & CSS
 
 ---
-###### Welcome to CV! If you're here, you're checking out how to make your simple CV and you can rest assured that you come to  the right place , Feel free to explore, and remember, the code is yours to adapt and use however you like. Enjoy! ######
+##### Welcome to CV! If you're here, you're checking out how to make your simple CV and you can rest assured that you come to  the right place , Feel free to explore, and remember, the code is yours to adapt and use however you like. Enjoy! ######
 ---
 
 ![Project Image](./img/1.png)
