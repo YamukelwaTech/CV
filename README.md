@@ -1,9 +1,20 @@
-#### Project: CV
-###### Date Started : Jan 22 2024
-###### Date Updated : Apr 24 2024
-###### Deployment : Netlify
----
-###### Welcome to CV!! If you're here, you're checking out the latest update of my project. I've spruced it up with a cool new look, and I can't wait for you to see it! Feel free to explore, and remember, the code is yours to adapt and use however you like. Enjoy! ######
+#### CV
+###### Date Started: 02/22/2024
+###### Last Updated: 06/04/2024
+###### Deployment: Netlify
 
-#### Documentation
-###### [04/24/24] To address a new ReadMe & Look
+---
+###### Tech Stack: HTML5 & CSS
+
+---
+###### Welcome to CV! If you're here, you're checking out how to make your simple CV and you can rest assured that you come to  the right place , Feel free to explore, and remember, the code is yours to adapt and use however you like. Enjoy! ######
+
+![Project Image](./img/1.png)
+
+###### Features:
+
+###### Process:
+
+###### Learnings:
+
+###### Improvement:
